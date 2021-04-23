@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frankcaron/sample-canvas-app.git"
+    "url": "git+https://github.com/agusabcg/sfcanvas.git"
   },
   "engines": {
     "node": "11.1.0"
@@ -16,9 +16,9 @@
   "author": "frankcaron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frankcaron/sample-canvas-app/issues"
+    "url": "https://github.com/agusabcg/sfcanvas/issues"
   },
-  "homepage": "https://github.com/frankcaron/sample-canvas-app#readme",
+  "homepage": "https://github.com/agusabcg/sfcanvas#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
